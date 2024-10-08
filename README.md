@@ -8,6 +8,7 @@ That being said, it's hard to apply for dev jobs without a portfolio. One thing 
 
 Some of my current guides:
 
+- [Deploying a Rails 7 + React app to AWS via Dokku](https://dev.to/kirbyaguilar/deploying-a-rails-7-react-app-to-aws-via-dokku-51kl) (proud of this one!)
 - [Reusable form inputs with React Hook Form and TypeScript](https://dev.to/kirby_aguilar/reusable-form-inputs-with-react-hook-form-and-typescript-naj)
 - [Setting up private routes with react router v6](https://dev.to/kirby_aguilar/setting-up-private-routes-with-react-router-v6-527l)
 
