@@ -14,4 +14,4 @@ Some of my current guides:
 
 #### Fluff
 
-Outside of work, I like reading, writing, badminton, competitive chess, cooking for my loved ones, and playing the bass. I'm always open to meeting new people and finding a bit of myself in them (and vice versa0.
+Outside of work, I like reading, writing, football, badminton, competitive chess, cooking for my loved ones, and playing the bass. I'm always open to meeting new people and finding a bit of myself in them (and vice versa0.
